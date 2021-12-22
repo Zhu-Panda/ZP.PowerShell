@@ -1,0 +1,3 @@
+[submodule "ZP.PowerShell.Core"]
+	path = ZP.PowerShell.Core
+	url = https://github.com/Zhu-Panda/ZP.PowerShell.Core.git
