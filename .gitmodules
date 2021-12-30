@@ -1,3 +1,6 @@
 [submodule "ZP.PowerShell.Core"]
 	path = ZP.PowerShell.Core
 	url = https://github.com/Zhu-Panda/ZP.PowerShell.Core.git
+[submodule "ZP.PowerShell.GitUtils"]
+	path = ZP.PowerShell.GitUtils
+	url = https://github.com/Zhu-Panda/ZP.PowerShell.GitUtils.git
